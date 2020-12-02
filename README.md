@@ -9,7 +9,7 @@ This project has 2 parts:
     - Measure and weight evolution
     - Evolution of Launches per year 
     - Evolution of amount of satellites launched per launch
-    -Source:  UCS Satellite Database by Union of concerned Scientists
+    - Source:  UCS Satellite Database by Union of concerned Scientists
               https://www.ucsusa.org/resources/satellite-database
         
     
