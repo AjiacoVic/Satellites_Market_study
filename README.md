@@ -25,4 +25,7 @@ This project has 2 parts:
     
  
  Trello: https://trello.com/b/7Jxa2myy
- Taleau Visualizations: https://public.tableau.com/profile/alexandra1124#!/vizhome/SatellitesMarketanalysis/SatelliteMarketanalysis?publish=yes
+ 
+ Tableau Visualizations: https://public.tableau.com/profile/alexandra1124#!/vizhome/SatellitesMarketanalysis/SatelliteMarketanalysis?publish=yes
+
+Presentation:https://docs.google.com/presentation/d/1Kudlv1F2Pm-il8eJYcWwHqm1lAaAPe8FCL7lSPJyT7M/edit?usp=sharing
