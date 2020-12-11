@@ -1,6 +1,6 @@
 # Satellites_Market_study
 
-Final project Ironhack, Market study on satellite specs evolution &amp; cost-driven model on interplanetary missions
+Final project Ironhack, Market study on satellite specs evolution and cost-driven model on interplanetary missions
 
 
 This project has 2 parts:
@@ -25,4 +25,4 @@ This project has 2 parts:
     
  
  Trello: https://trello.com/b/7Jxa2myy
- 
+ Taleau Visualizations: https://public.tableau.com/profile/alexandra1124#!/vizhome/SatellitesMarketanalysis/SatelliteMarketanalysis?publish=yes
